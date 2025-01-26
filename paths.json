@@ -1,10 +1,7 @@
 {
   "mappings": [
-    "/content/ud-demo-bootcamp/:/",
-    "/content/ud-demo-bootcamp/configuration:/.helix/config.json",
-    "/content/ud-demo-bootcamp/metadata:/metadata.json"
-  ],
-  "includes": [
-    "/content/ud-demo-bootcamp/"
+  "/content/xsc-xwalk-site/:/",
+  "/content/xsc-xwalk-site/metadata.json:/metadata.json",
+  "/content/xsc-xwalk-site/redirects.json:/redirects.json"
   ]
 }
