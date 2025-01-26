@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p139028-e1419830.adobeaemcloud.com/bin/franklin.delivery/horihara/ud-demo/main" #horihara program2 - Prod
+    url: "https://author-p139028-e1419830.adobeaemcloud.com/bin/franklin.delivery/horihara/ud-demo-bootcamp/main" #horihara program2 - Prod
     type: "markup"
     suffix: ".html"
